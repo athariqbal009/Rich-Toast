@@ -10,8 +10,8 @@ android {
     defaultConfig {
         minSdk 21
         targetSdk 31
-        versionCode 5
-        versionName "1.5"
+        versionCode 6
+        versionName "1.6"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
@@ -48,7 +48,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.android.richtoast'
                 artifactId = 'final'
-                version = '1.5'
+                version = '1.6'
             }
         }
     }
