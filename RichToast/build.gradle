@@ -46,8 +46,8 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.android'
-                artifactId = 'richtoast'
+                groupId = 'com.android.richtoast'
+                artifactId = 'final'
                 version = '1.4'
             }
         }
