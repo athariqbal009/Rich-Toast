@@ -1,4 +1,4 @@
-package com.android.richtoast
+package com.android.richtoastsample
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

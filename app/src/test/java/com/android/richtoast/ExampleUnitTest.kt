@@ -1,4 +1,4 @@
-package com.android.richtoast
+package com.android.richtoastsample
 
 import org.junit.Test
 

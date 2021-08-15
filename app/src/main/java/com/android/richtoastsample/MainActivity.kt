@@ -1,8 +1,9 @@
-package com.android.richtoast
+package com.android.richtoastsample
 
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
+import com.android.richtoast.RichToast
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
