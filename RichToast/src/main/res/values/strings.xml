@@ -1,0 +1,3 @@
+<resources>
+    <string name="default_message">Default success toast with short duration</string>
+</resources>
