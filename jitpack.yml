@@ -1,5 +1,2 @@
 jdk:
   - openjdk11
-install:
-  - ./gradlew :RichToast:build :RichToast:publishToMavenLocal -x :RichToast:test
-  - find . -name "*.aar"
